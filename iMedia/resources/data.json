@@ -1,0 +1,25 @@
+{
+  "releaseVersion": [
+
+    {
+      "title": "Phiên bản Điện thoại",
+      "version": "Version: abc.xyz.123",
+      "descriptionGG": "Phiên bản phù hợp với các thiết bị Điện thoại, Tablet",
+      "linkGG": "",
+      "descriptionAPK": "",
+      "linkAPK": "",
+      "type": "phone"
+    }
+  ],
+  "social": {
+    "facebook": {
+      "link": "http://fb.com/animehay.fanpage"
+    },
+    "zalo": {
+      "link": "http://zalo.me/"
+    },
+    "mail": {
+      "link": "contact.animehay@gmail.com"
+    }
+  }
+}
